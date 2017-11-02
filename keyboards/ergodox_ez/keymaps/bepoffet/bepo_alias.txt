@@ -1,0 +1,289 @@
+BP_DOLLAR           KC_GRV
+BP_DLR              BP_DOLLAR
+BP_DOUBLE_QUOTE     KC_1
+BP_DQOT             BP_DOUBLE_QUOTE
+
+BP_LEFT_GUILLEMET   KC_2
+BP_LGIL             BP_LEFT_GUILLEMET
+BP_RIGHT_GUILLEMET  KC_3
+BP_RGIL             BP_RIGHT_GUILLEMET
+BP_LEFT_PAREN       KC_4
+BP_LPRN             BP_LEFT_PAREN
+BP_RIGHT_PAREN      KC_5
+BP_RPRN             BP_RIGHT_PAREN
+BP_AT               KC_6
+BP_PLUS             KC_7
+BP_MINUS            KC_8
+BP_MINS             BP_MINUS
+BP_SLASH            KC_9
+BP_SLSH             BP_SLASH
+BP_ASTERISK         KC_0
+BP_ASTR             BP_ASTERISK
+BP_EQUAL            KC_MINUS
+BP_EQL              BP_EQUAL
+BP_PERCENT          KC_EQL
+BP_PERC             BP_PERCENT
+BP_B                KC_Q
+BP_E_ACUTE          KC_W
+BP_ECUT             BP_E_ACUTE
+BP_P                KC_E
+BP_O                KC_R
+BP_E_GRAVE          KC_T
+BP_EGRV             BP_E_GRAVE
+BP_DEAD_CIRCUMFLEX  KC_Y
+BP_DCRC             BP_DEAD_CIRCUMFLEX
+BP_V                KC_U
+BP_D                KC_I
+BP_L                KC_O
+BP_J                KC_P
+BP_Z                KC_LBRC
+BP_W                KC_RBRC
+BP_A            KC_A
+BP_U            KC_S
+BP_I            KC_D
+BP_E            KC_F
+BP_COMMA        KC_G
+BP_COMM         BP_COMMA
+BP_C            KC_H
+BP_T            KC_J
+BP_S            KC_K
+BP_R            KC_L
+BP_N            KC_SCLN
+BP_M            KC_QUOT
+BP_C_CEDILLA    KC_BSLS
+BP_CCED         BP_C_CEDILLA
+BP_E_CIRCUMFLEX     KC_NONUS_BSLASH
+BP_ECRC             BP_E_CIRCUMFLEX
+BP_A_GRAVE          KC_Z
+BP_AGRV             BP_A_GRAVE
+BP_Y                KC_X
+BP_X                KC_C
+BP_DOT              KC_V
+BP_K                KC_B
+BP_APOSTROPHE       KC_N
+BP_APOS             BP_APOSTROPHE
+BP_Q                KC_M
+BP_G                KC_COMM
+BP_H                KC_DOT
+BP_F                KC_SLSH
+
+
+
+BP_HASH     LSFT(BP_DOLLAR)
+BP_1        LSFT(KC_1)
+BP_2        LSFT(KC_2)
+BP_3        LSFT(KC_3)
+BP_4        LSFT(KC_4)
+BP_5        LSFT(KC_5)
+BP_6        LSFT(KC_6)
+BP_7        LSFT(KC_7)
+BP_8        LSFT(KC_8)
+BP_9        LSFT(KC_9)
+BP_0        LSFT(KC_0)
+BP_DEGREE   LSFT(BP_EQUAL)
+BP_DEGR     BP_DEGREE
+BP_GRAVE    LSFT(BP_PERCENT)
+BP_GRV      BP_GRAVE
+
+
+BP_EXCLAIM  LSFT(BP_DEAD_CIRCUMFLEX)
+BP_EXLM     BP_EXCLAIM
+
+
+BP_SCOLON   LSFT(BP_COMMA)
+BP_SCLN     BP_SCOLON
+
+
+BP_COLON    LSFT(BP_DOT)
+BP_COLN     BP_COLON
+BP_QUESTION LSFT(BP_QUOTE)
+BP_QEST     BP_QUESTION
+
+
+BP_NON_BREAKING_SPACE   LSFT(KC_SPACE)
+BP_NBSP                 BP_NON_BREAKING_SPACE
+
+
+
+BP_EN_DASH          ALTGR(BP_DOLLAR)
+BP_NDSH             BP_EN_DASH
+BP_EM_DASH          ALTGR(KC_1)
+BP_MDSH             BP_EM_DASH
+BP_LESS             ALTGR(KC_2)
+BP_GREATER          ALTGR(KC_3)
+BP_GRTR             BP_GREATER
+BP_LBRACKET         ALTGR(KC_4)
+BP_LBRC             BP_LBRACKET
+BP_RBRACKET         ALTGR(KC_5)
+BP_RBRC             BP_RBRACKET
+BP_CIRCUMFLEX       ALTGR(KC_6)
+BP_CIRC             BP_CIRCUMFLEX
+BP_PLUS_MINUS       ALTGR(KC_7)
+BP_PSMS             BP_PLUS_MINUS
+BP_MATH_MINUS       ALTGR(KC_8)
+BP_MMNS             BP_MATH_MINUS
+BP_OBELUS           ALTGR(KC_9)
+BP_OBEL             BP_OBELUS
+
+BP_DIVISION_SIGN    BP_OBELUS
+BP_DVSN             BP_DIVISION_SIGN
+BP_TIMES            ALTGR(KC_0)
+BP_TIMS             BP_TIMES
+BP_DIFFERENT        ALTGR(BP_EQUAL)
+BP_DIFF             BP_DIFFERENT
+BP_PERMILLE         ALTGR(BP_PERCENT)
+BP_PMIL             BP_PERMILLE
+
+
+BP_PIPE                 ALTGR(BP_B)
+BP_DEAD_ACUTE           ALTGR(BP_E_ACUTE)
+BP_DACT                 BP_DEAD_ACUTE
+BP_AMPERSAND            ALTGR(BP_P)
+BP_AMPR                 BP_AMPERSAND
+BP_OE_LIGATURE          ALTGR(BP_O)
+BP_OE                   BP_OE_LIGATURE
+BP_DEAD_GRAVE           ALTGR(BP_E_GRAVE)
+BP_DGRV                 BP_DEAD_GRAVE
+BP_INVERTED_EXCLAIM     ALTGR(BP_DEAD_CIRCUMFLEX)
+BP_IXLM                 BP_INVERTED_EXCLAIM
+BP_DEAD_CARON           ALTGR(BP_V)
+BP_DCAR                 BP_DEAD_CARON
+BP_ETH                  ALTGR(BP_D)
+BP_DEAD_SLASH           ALTGR(BP_L)
+BP_DSLH                 BP_DEAD_SLASH
+BP_IJ_LIGATURE          ALTGR(BP_J)
+BP_IJ                   BP_IJ_LIGATURE
+BP_SCHWA                ALTGR(BP_Z)
+BP_SCWA                 BP_SCHWA
+BP_DEAD_BREVE           ALTGR(BP_W)
+BP_DBRV                 BP_DEAD_BREVE
+
+
+BP_AE_LIGATURE              ALTGR(BP_A)
+BP_AE                       BP_AE_LIGATURE
+BP_U_GRAVE                  AGR(BP_U)
+BP_UGRV                     BP_U_GRAVE
+BP_DEAD_TREMA               ALTGR(BP_I)
+BP_DTRM                     BP_DEAD_TREMA
+BP_EURO                     ALTGR(BP_E)
+BP_TYPOGRAPHICAL_APOSTROPHE ALTGR(BP_COMMMA)
+BP_TAPO                     BP_TYPOGRAPHICAL_APOSTROPHE
+BP_COPYRIGHT                ALTGR(BP_C)
+BP_CPRT                     BP_COPYRIGHT
+BP_THORN                    ALTGR(BP_T)
+BP_THRN                     BP_THORN
+BP_SHARP_S                  ALTGR(BP_S)
+BP_SRPS                     BP_SHARP_S
+BP_REGISTERED_TRADEMARK     ALTGR(BP_R)
+BP_RTM                      BP_REGISTERED_TRADEMARK
+BP_DEAD_TILDE               ALTGR(BP_N)
+BP_DTLD                     BP_DEAD_TILDE
+BP_DEAD_MACRON              ALTGR(BP_M)
+BP_DMCR                     BP_DEAD_MACRON
+BP_DEAD_CEDILLA             ALTGR(BP_C_CEDILLA)
+BP_DCED                     BP_DEAD_CEDILLA
+
+
+BP_NONUS_SLASH          ALTGR(BP_E_CIRCUMFLEX)
+BP_NUSL                 BP_NONUS_SLASH
+BP_BACKSLASH            ALTGR(BP_A_GRAVE)       /* \ */
+BP_BSLS                 BP_BACKSLASH
+BP_LEFT_CURLY_BRACE     ALTGR(BP_Y)
+BP_LCBR                 BP_LEFT_CURLY_BRACE
+BP_RIGHT_CURLY_BRACE    ALTGR(BP_X)
+BP_RCBR                 BP_RIGHT_CURLY_BRACE
+BP_ELLIPSIS             ALTGR(BP_DOT)
+BP_ELPS                 BP_ELLIPSIS
+BP_TILDE                ALTGR(BP_K)
+BP_TILD                 BP_TILDE
+BP_INVERTED_QUESTION    ALTGR(BP_QUESTION)
+BP_IQST                 BP_INVERTED_QUESTION
+BP_DEAD_RING            ALTGR(BP_Q)
+BP_DRNG                 BP_DEAD_RING
+BP_DEAD_GREEK           ALTGR(BP_G)
+BP_DGRK                 BP_DEAD_GREEK
+BP_DAGGER               ALTGR(BP_H)
+BP_DAGR                 BP_DAGGER
+BP_DEAD_OGONEK          ALTGR(BP_F)
+BP_DOGO                 BP_DEAD_OGONEK
+
+
+BP_UNDERSCORE   ALTGR(KC_SPACE)
+BP_UNDS         BP_UNDERSCORE
+
+
+
+BP_PARAGRAPH            ALTGR(BP_HASH)
+BP_PARG                 BP_PARAGRAPH
+BP_LOW_DOUBLE_QUOTE     ALTGR(BP_1)
+BP_LWQT                 BP_LOW_DOUBLE_QUOTE
+BP_LEFT_DOUBLE_QUOTE    ALTGR(BP_2)
+BP_LDQT                 BP_LEFT_DOUBLE_QUOTE
+BP_RIGHT_DOUBLE_QUOTE   ALTGR(BP_3)
+BP_RDQT                 BP_RIGHT_DOUBLE_QUOTE
+BP_LESS_OR_EQUAL        ALTGR(BP_4)
+BP_LEQL                 BP_LESS_OR_EQUAL
+BP_GREATER_OR_EQUAL     ALTGR(BP_5)
+BP_GEQL                 BP_GREATER_OR_EQUAL
+
+BP_NEGATION             ALTGR(BP_7)
+BP_NEGT                 BP_NEGATION
+BP_ONE_QUARTER          ALTGR(BP_8)
+BP_1QRT                 BP_ONE_QUARTER
+BP_ONE_HALF             ALTGR(BP_9)
+BP_1HLF                 BP_ONE_HALF
+BP_THREE_QUARTERS       ALTGR(BP_0)
+BP_3QRT                 BP_THREE_QUARTERS
+BP_MINUTES              ALTGR(BP_DEGREE)
+BP_MNUT                 BP_MINUTES
+BP_SECONDS              ALTGR(BP_GRAVE)
+BP_SCND                 BP_SECONDS
+
+
+BP_BROKEN_PIPE          LSFT(BP_PIPE)
+BP_BPIP                 BP_BROKEN_PIPE
+BP_DEAD_DOUBLE_ACUTE    LSFT(BP_DEAD_ACUTE)
+BP_DDCT                 BP_DEAD_DOUBLE_ACUTE
+BP_SECTION              ALTGR(LSFT(BP_P))
+BP_SECT                 BP_SECTION
+
+BP_GRAVE_BIS            LSFT(BP_DEAD_GRAVE)
+BP_GRVB                 BP_GRAVE_BIS
+
+
+BP_DEAD_DOT_ABOVE       LSFT(BP_DEAD_TREMA)
+BP_DDTA                 BP_DEAD_DOT_ABOVE
+BP_DEAD_CURRENCY        LSFT(BP_EURO)
+BP_DCUR                 BP_DEAD_CURRENCY
+BP_DEAD_HORN            LSFT(ALTGR(BP_COMMA))
+BP_DHRN                 BP_DEAD_HORN
+BP_LONG_S               LSFT(ALTGR(BP_C))
+BP_LNGS                 BP_LONG_S
+BP_TRADEMARK            LSFT(BP_REGISTERED_TRADEMARK)
+BP_TM                   BP_TRADEMARK
+BP_ORDINAL_INDICATOR_O  LSFT(ALTGR(BP_M))
+BP_ORDO                 BP_ORDINAL_INDICATOR_O
+BP_DEAD_COMMA           LSFT(BP_DEAD_CEDILLA)
+BP_DCOM                 BP_DEAD_COMMA
+
+
+BP_LEFT_QUOTE           LSFT(ALTGR(BP_Y))
+BP_LQOT                 BP_LEFT_QUOTE
+BP_RIGHT_QUOTE          LSFT(ALTGR(BP_X))
+BP_RQOT                 BP_RIGHT_QUOTE
+BP_INTERPUNCT           LSFT(ALTGR(BP_DOT))
+BP_IPCT                 BP_INTERPUNCT
+BP_DEAD_HOOK_ABOVE      LSFT(ALTGR(BP_QUESTION))
+BP_DHKA                 BP_DEAD_HOOK_ABOVE
+BP_DEAD_UNDERDOT        LSFT(BP_DEAD_RING)
+BP_DUDT                 BP_DEAD_UNDERDOT
+BP_DOUBLE_DAGGER        LSFT(BP_DAGGER)
+BP_DDGR                 BP_DOUBLE_DAGGER
+BP_ORDINAL_INDICATOR_A  LSFT(ALTGR(BP_F))
+BP_ORDA                 BP_ORDINAL_INDICATOR_A
+
+
+BP_NARROW_NON_BREAKING_SPACE    ALTGR(BP_NON_BREAKING_SPACE)
+BP_NNBS                         BP_NARROW_NON_BREAKING_SPACE
+
+#endif
